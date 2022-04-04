@@ -21,6 +21,10 @@
     font-size: 20px;
 }
 
+.info {
+    color: green;
+}
+
 .info-container button {
     padding: 15px 22px;
     background-color: darkorchid;
@@ -45,4 +49,11 @@
     grid-gap: 30px;
     padding: 20px;
 
+}
+
+.allbikes {
+    margin: 30px;
+    padding: 20px 30px;
+    font-size: 15px;
+    background-color: yellowgreen;
 }
