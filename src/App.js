@@ -1,4 +1,5 @@
 
+
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import About from './components/About/About';
@@ -10,6 +11,7 @@ import Reviews from './components/Reviews/Reviews';
 
 
 function App() {
+
   return (
     <div className="App">
       <Header></Header>
@@ -21,6 +23,7 @@ function App() {
         <Route path="/blogs" element={<Blogs></Blogs>}></Route>
         <Route path="/about" element={<About></About>}></Route>
       </Routes>
+
 
     </div>
   );

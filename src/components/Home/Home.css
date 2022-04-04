@@ -7,13 +7,14 @@
 
 .info-container {
     align-items: center;
-    margin-top: 50px;
+    margin-top: 70px;
     padding: 20px;
 
 }
 
 .info-container h2 {
     font-size: 45px;
+    margin: 0;
 }
 
 .info-container p {
@@ -23,4 +24,21 @@
 .info-container button {
     padding: 10px 20px;
     border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
+
+.bike-container img {
+    width: 700px;
+}
+
+.bike-container {
+    margin-top: 50px;
+}
+
+.home-review {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    padding: 20px;
 }

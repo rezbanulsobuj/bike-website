@@ -1,0 +1,12 @@
+.reviewCart img {
+    height: 300px;
+    width: 300px;
+
+}
+
+.reviewCart {
+    border: 2px solid royalblue;
+    background-color: aqua;
+    height: 500px;
+    width: 300px;
+}
