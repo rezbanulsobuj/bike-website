@@ -4,7 +4,7 @@ import ReviewPage from '../ReviewPage/ReviewPage';
 import './Reviews.css'
 
 const Reviews = () => {
-    const [review, setReview] = useProduct()
+    const [review] = useProduct()
     return (
         <div className='order-review'>
             {

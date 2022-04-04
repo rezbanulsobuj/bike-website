@@ -5,7 +5,7 @@ import CardReview from '../CardReview/CardReview';
 import useProduct from '../../hook/useProduct';
 
 const Home = () => {
-    const [review, setReview] = useProduct()
+    const [review] = useProduct()
     return (
         <div>
             <div className='home-container'>
