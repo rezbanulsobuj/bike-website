@@ -1,0 +1,26 @@
+.home-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.info-container {
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px;
+
+}
+
+.info-container h2 {
+    font-size: 45px;
+}
+
+.info-container p {
+    font-size: 20px;
+}
+
+.info-container button {
+    padding: 10px 20px;
+    border-radius: 5px;
+}
