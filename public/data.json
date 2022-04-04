@@ -4,83 +4,63 @@
         "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
         "name": "Peformance Electric Bike",
         "picture": "https://i.ibb.co/JdLzpKZ/Bajaj-Triumph-Bike.jpg",
-        "rating": "4.5"
+        "rating": "4.5",
+        "reviewname": "Nahid Karim Emon"
     },
     {
         "id": 8744383847,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
+        "review": "This is the KTM bike is very comfort and rinning bike.I want to this type Bike.finallt i got the bike",
         "name": "KTM Bike",
         "picture": "https://i.ibb.co/PmtS0ZS/x-pagespeed-ic-Be-HZou1-JSH.jpg",
-        "rating": "4.5"
+        "rating": "4.5",
+        "reviewname": "Md.Saon Khan"
     },
     {
         "id": 74747719474,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
+        "review": "very very zoss and attractive bike. Our trusted bike reviews provide the world's best riding advice.",
         "name": "Apache RTR",
         "picture": "https://i.ibb.co/YWp163M/dhoom-3-bike-bmw-k1300r.jpg",
-        "rating": "4.5"
+        "rating": "4.0",
+        "reviewname": "Matin Khan"
     },
     {
         "id": 28475742387,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
+        "review": "i love hero bike.Most of the middle class family use hero bike.i belong middle class family and this bike for me",
         "name": "Heroo Bike",
         "picture": "https://i.ibb.co/bW0hQtW/download.jpg",
-        "rating": "4.5"
+        "rating": "4.6",
+        "reviewname": "Golam Mostafa"
     },
     {
         "id": 23775565474,
         "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
         "name": "Dhoom Bike",
         "picture": "https://i.ibb.co/Bq7fPvj/kawasaki-647x720.webp",
-        "rating": "4.5"
+        "rating": "4.7",
+        "reviewname": "Syed Galib"
     },
     {
         "id": 982474256487,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
+        "review": " Our trusted bike reviews provide the world's best riding advice.Reviews of bikes from BikeRadar's expert testers.",
         "name": "Bajaj Bike",
         "picture": "https://i.ibb.co/Fx3wN2g/RED-Prana1.jpg",
-        "rating": "4.5"
+        "rating": "4.5",
+        "reviewname": "Bulbul Mia"
     },
     {
         "id": 2785764874,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
+        "review": "Pulsar bike of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
         "name": "Pulsar Bike",
         "picture": "https://i.ibb.co/L6dnZgx/bajaj-pulsar-180.jpg",
-        "rating": "4.5"
+        "rating": "4.8",
+        "reviewname": "Mirza Rifat"
     },
     {
         "id": 473264647,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
+        "review": "Royal Enfield  bikes from BikeRadar's expert testers. i have a dream and a got this bike.a am really excited so much",
         "name": "Royal Enfield Scram",
         "picture": "https://i.ibb.co/DznM5h8/continental-gt-new.jpg ",
-        "rating": "4.5"
-    },
-    {
-        "id": 893743367,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
-        "name": "R15 v3",
-        "picture": "https://i.ibb.co/SrpzFQW/yamaha-yzf-r15-v-3-0-bike-500x500.jpg",
-        "rating": "4.5"
-    },
-    {
-        "id": 2847553387,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
-        "name": "Red Prana  Bike",
-        "picture": "https://i.ibb.co/Fx3wN2g/RED-Prana1.jpg",
-        "rating": "4.5"
-    },
-    {
-        "id": 286373387,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
-        "name": "Racer Bike",
-        "picture": "https://i.ibb.co/Bq7fPvj/kawasaki-647x720.webp",
-        "rating": "4.5"
-    },
-    {
-        "id": 28475563633,
-        "review": "Reviews of bikes from BikeRadar's expert testers. Our trusted bike reviews provide the world's best riding advice.",
-        "name": "Super Nike",
-        "picture": "https://i.ibb.co/YWp163M/dhoom-3-bike-bmw-k1300r.jpg",
-        "rating": "4.5"
+        "rating": "4.5",
+        "reviewname": "Md.Kabir Khan"
     }
 ]

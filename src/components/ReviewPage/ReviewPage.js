@@ -1,8 +1,7 @@
 import React from 'react';
-import './CardReview.css'
+import './ReviewPage.css'
 
-const CardReview = (props) => {
-
+const ReviewPage = (props) => {
     const { name, review, rating, picture, reviewname } = props.review
     return (
         <div className='reviewCart'>
@@ -15,4 +14,4 @@ const CardReview = (props) => {
     );
 };
 
-export default CardReview;
+export default ReviewPage;
